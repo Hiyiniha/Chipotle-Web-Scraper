@@ -36,4 +36,5 @@ while True:
                     #Checks if promo code has already been used
                     if promo != ss:
                         promo = ss
+                        #Send code to receiever using iMessage
                         os.system("osascript sendMessage.applescript {} {}".format(phone, promo))
