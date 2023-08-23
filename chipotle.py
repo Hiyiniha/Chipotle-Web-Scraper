@@ -14,6 +14,7 @@ query = "(from:ChipotleTweets) since:2023-04-06"
 
 limit = 1 #number of tweets grabbed
 promo = '' #promo code in tweet
+
 while True:
     tweets = [] #list of tweets
     word = [] #list of words in tweet
