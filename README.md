@@ -4,7 +4,7 @@ During the 2023 NBA Finals, Chipotle had a promo called the Free-Pointer. Everyt
 
 In order to use this program, you must run the code on some sort of Mac laptop or computer. This code utilizes iMessage to send the message with the promo code.
 
-#Images 
+## Images 
 ![](https://github.com/Hiyiniha/Chipotle-Web-Scraper/blob/main/images/tweet.png)
 
 ![](https://github.com/Hiyiniha/Chipotle-Web-Scraper/blob/main/images/message.jpeg)
